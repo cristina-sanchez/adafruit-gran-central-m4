@@ -1,6 +1,6 @@
 {
-    "name": "Adafruit Gran Central M4",
-    "description": "",
+    "name": "Adafruit Grand Central M4",
+    "description": "Adafruit board for biolab project",
     "dependencies": {
         "adafruit-trinket-m0": "*"
     },
